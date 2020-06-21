@@ -1,0 +1,125 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.circle{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 140px;
+    top: 15px;
+    border: 2px solid #8BA4F9;
+    border-radius: 50%;
+    
+}
+
+.container{
+    max-width: 1366;
+    margin: 0 auto;
+}
+
+.header{
+    position: absolute;
+    display: flex;
+    width: 1900px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 20px rgba(31, 32, 65, 0.05);
+    text-decoration: none;
+}
+
+.menu__link{
+    text-decoration: none;
+    color: inherit;
+}
+.menu{
+   
+}
+.munu__list-item{
+    display: inline;
+    color: inherit;
+}
+
+.menu__list{
+    position: absolute;
+    width: 446px;
+    height: 21px;
+    left: 531px;
+    top: 26px;
+    
+}
+
+
+.header__logo-text{
+    position: absolute;
+    width: 53.19px;
+    height: 12.95px;
+    left: 192.5px;
+    top: 28.33px;
+}
+
+.button__first{
+    position: absolute;
+    width: 87px;
+    height: 34px;
+    left: 997px;
+    top: 18px;
+    border-radius: 22px;
+    background-color:#FFFFFF;
+    border-color: #8BA4F9;
+}
+
+.button__secound{
+    position: absolute;
+    width: 196px;
+    height: 34px;
+    left: 1104px;
+    top: 18px;
+
+    background: linear-gradient(180deg, #BC9CFF 0%, #8BA4F9 100%);
+    border-radius: 22px ;
+    color: #FFFFFF;;
+    
+}
+
+
+.header__logo{
+    position: absolute;
+    width: 105.69px;
+    height: 40px;
+    left: 140px;
+    top: 15px;
+}
+
+
+.button__text-one{
+ 
+
+
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+
+
+    text-transform: uppercase;
+
+    color: #BC9CFF;
+
+
+}
+.button__text-two{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 12px;
+    line-height: 15px;
+    top: 50%; 
+
+}
